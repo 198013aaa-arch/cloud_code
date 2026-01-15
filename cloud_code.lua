@@ -1,5 +1,1 @@
-AlertDialog.Builder(activity)
-.setTitle("提示9494")
-.setMessage("云sjksk函数执行成功")
-.setPositiveButton("确定",nil)
-.show()
+给我低调点
