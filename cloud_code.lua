@@ -1,1 +1,5 @@
-给我低调点
+AlertDialog.Builder(activity)
+.setTitle("提6示9494")
+.setMessage("云函数执行成功")
+.setPositiveButton("确定",nil)
+.show()
